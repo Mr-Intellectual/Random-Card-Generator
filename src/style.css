@@ -1,1 +1,24 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+* {
+  /* outline: 1px dashed red; */
+  min-height: 10px;
+}
+body {
+  background-color: green !important;
+}
+#card {
+  margin-top: 120px;
+  /* width: 250px; */
+  /* height: 400px; */
+}
+/* #top-suit {
+  font-size: 70px;
+} */
+#bottom-suit {
+  /* font-size: 70px; */
+  rotate: 180deg;
+}
+/* #cardNum {
+  font-size: 100px;
+} */
